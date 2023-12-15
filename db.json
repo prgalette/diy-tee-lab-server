@@ -1,4 +1,40 @@
 {
-  "conversations": [],
-  "queries": []
+  "shirts": [
+    {
+      "_id": "001",
+      "title": "Black Tee",
+      "type": "t-shirt",
+      "design_name": "blank-1",
+      "color": "black",
+      "image_url": "https://res.cloudinary.com/dxl0hu3v9/image/upload/v1702666523/AdobeStock_663646779_lbb1lt.jpg",
+      "tagline": "Design Your Black Tee"
+    },
+    {
+      "_id": "002",
+      "title": "White Tee",
+      "type": "t-shirt",
+      "design_name": "blank-1",
+      "color": "white",
+      "image_url": "https://res.cloudinary.com/dxl0hu3v9/image/upload/v1702666534/AdobeStock_663654428_soam6s.jpg",
+      "tagline": "Design Your White Tee"
+    },
+    {
+      "_id": "003",
+      "title": "Black Hoodie",
+      "type": "hoodie",
+      "design_name": "blank-3",
+      "color": "black",
+      "image_url": "https://res.cloudinary.com/dxl0hu3v9/image/upload/v1702666509/AdobeStock_661981584_wswimz.jpg",
+      "tagline": "Design Your Black Hoodie"
+    },
+    {
+      "_id": "004",
+      "title": "White Hoodie",
+      "type": "hoodie",
+      "design_name": "blank-3",
+      "color": "white",
+      "image_url": "https://res.cloudinary.com/dxl0hu3v9/image/upload/v1702666500/AdobeStock_661981002_j4mhgh.jpg",
+      "tagline": "Design Your White Hoodie"
+    }
+  ]
 }
