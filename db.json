@@ -36,5 +36,16 @@
       "image_url": "https://res.cloudinary.com/dxl0hu3v9/image/upload/v1702666500/AdobeStock_661981002_j4mhgh.jpg",
       "tagline": "Design Your White Hoodie"
     }
+  ],
+  "orders": [
+    {
+      "designName": "Pierre's First Test",
+      "message": "Test",
+      "font": "2",
+      "color": "#3d497b",
+      "size": "3",
+      "shirtId": "001",
+      "id": 1
+    }
   ]
 }
