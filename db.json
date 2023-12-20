@@ -40,12 +40,30 @@
   "orders": [
     {
       "designName": "Pierre's First Test",
-      "message": "Test",
-      "font": "2",
-      "color": "#3d497b",
-      "size": "3",
+      "message": "Test 1",
+      "font": "1",
+      "color": "#563d7c",
+      "size": "L",
       "shirtId": "001",
       "id": 1
+    },
+    {
+      "designName": "Pierre's Second Test",
+      "message": "Test 2",
+      "font": "2",
+      "color": "#4850c7",
+      "size": "L",
+      "shirtId": "002",
+      "id": 2
+    },
+    {
+      "designName": "Pierre's Third Test",
+      "message": "Test 3",
+      "font": "3",
+      "color": "#c8b7e1",
+      "size": "L",
+      "shirtId": "003",
+      "id": 3
     }
   ]
 }
