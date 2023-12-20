@@ -1,7 +1,7 @@
 {
   "shirts": [
     {
-      "_id": "001",
+      "id": 1,
       "title": "Black Tee",
       "type": "t-shirt",
       "design_name": "blank-1",
@@ -10,7 +10,7 @@
       "tagline": "Design Your Black Tee"
     },
     {
-      "_id": "002",
+      "id": 2,
       "title": "White Tee",
       "type": "t-shirt",
       "design_name": "blank-1",
@@ -19,7 +19,7 @@
       "tagline": "Design Your White Tee"
     },
     {
-      "_id": "003",
+      "id": 3,
       "title": "Black Hoodie",
       "type": "hoodie",
       "design_name": "blank-3",
@@ -28,7 +28,7 @@
       "tagline": "Design Your Black Hoodie"
     },
     {
-      "_id": "004",
+      "id": 4,
       "title": "White Hoodie",
       "type": "hoodie",
       "design_name": "blank-3",
@@ -39,31 +39,31 @@
   ],
   "orders": [
     {
-      "designName": "Pierre's First Test",
-      "message": "Test 1",
-      "font": "1",
-      "color": "#563d7c",
-      "size": "L",
-      "shirtId": "001",
-      "id": 1
-    },
-    {
       "designName": "Pierre's Second Test",
       "message": "Test 2",
-      "font": "2",
-      "color": "#4850c7",
+      "font": "1",
+      "color": "#2b5fda",
       "size": "L",
-      "shirtId": "002",
-      "id": 2
+      "shirtId": 2,
+      "id": 3
     },
     {
       "designName": "Pierre's Third Test",
       "message": "Test 3",
       "font": "3",
-      "color": "#c8b7e1",
+      "color": "#d350cf",
       "size": "L",
-      "shirtId": "003",
-      "id": 3
+      "shirtId": 4,
+      "id": 4
+    },
+    {
+      "designName": "Updated Test",
+      "message": "Testing Update Feature!",
+      "font": "1",
+      "color": "#4ad39f",
+      "size": "L",
+      "shirtId": 3,
+      "id": 5
     }
   ]
 }
